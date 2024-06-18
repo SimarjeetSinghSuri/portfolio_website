@@ -104,7 +104,7 @@ li:hover {
 }
 
 .work img {
-    height: 60vh;
+    width: 30vw;
     margin: 0 3vw;
 }
 
@@ -156,7 +156,7 @@ li:hover {
 
 
 #id {
-    height: 60vh;
+    width: 30vw;
     margin: 4vw;
 
 }
@@ -433,4 +433,10 @@ a {
         margin-top: 70%;
     
     }
+    
+section img {
+    margin: 0 0;
+    background-color: yellow;
+    width: 5vw;
+}
 } 
