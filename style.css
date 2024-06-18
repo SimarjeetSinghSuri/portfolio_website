@@ -95,7 +95,7 @@ li:hover {
 
 .about p {
     margin: 0 1vw;
-    font-size: 2rem;
+    font-size: 1.5rem;
     width: 95%;
 }
 
@@ -295,7 +295,7 @@ li:hover {
 
 .footer p {
     margin-bottom: 2vh;
-    font-size: small;
+    font-size: 0.75rem;
 }
 
 .button {
@@ -365,7 +365,7 @@ a {
     align-items: center;
     margin: 6% 4%;
     padding: 0 4%;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: bolder;
 }
 
