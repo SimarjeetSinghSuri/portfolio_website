@@ -26,7 +26,7 @@ nav {
 }
 
 .left {
-    font-size: larger;
+    font-size: 1.5rem;
 }
 
 .right ul {
@@ -333,7 +333,7 @@ a {
         height: 15%;
         padding: 3vh 2.5vw;
         border-radius: 1rem;
-        background-color: #141a1a;
+        background-color: ;
         font-size: 1rem;
         transition: all;
   }
@@ -345,6 +345,17 @@ a {
      width: 70%;
     margin: 3vh 15%; 
 }
+.right ul {
+    margin: 0 7vw;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.right ul li {
+    padding: 0 2vw;
+}
+
 
 }
 
@@ -378,6 +389,16 @@ a {
     padding-left: 10%;
     margin-top: 70%;
 
+}
+.right ul {
+    margin: 0 5vw;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.right ul li {
+    padding: 0 2vw;
 }
 }
 
