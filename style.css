@@ -434,19 +434,27 @@ a {
     
     }
     
-    .work span {
-        margin: 0 1vw;
-        padding: 2vh 0;
+    .work img {
+        height: 30vh;
+        margin: 0 3vw;
+    }
+    
+    .work div {
         display: flex;
         flex-direction: column-reverse;
-        gap: 5vw;
+        justify-content: space-between;
     }
-
     
 .education div {
     display: flex;
     flex-direction: column-reverse;
     justify-content: space-between;
     gap: 10vw;
+}
+
+#id {
+    height: 30vh;
+    margin: 4vw;
+
 }
 } 
