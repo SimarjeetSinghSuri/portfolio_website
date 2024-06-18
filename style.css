@@ -445,8 +445,9 @@ a {
     }
     
     .work img {
-        width: 30vw;
-        margin: 0 3vw;
+        width: 50%;
+        height: 25%;
+        margin: 10% 25%;
     }
     
     .work div {
@@ -463,8 +464,8 @@ a {
 }
 
 #id {
-    width: 30vw;
-    margin: 4vw;
-
+    width: 50%;
+    height: 25%;
+    margin: 10% 25%;
 }
 } 
